@@ -3,10 +3,8 @@ import { useStoreState, useStoreActions } from "easy-peasy";
 import Feed from "./Feed";
 import useAxiosFetch from "../hooks/useAxiosFetch";
 
-// glitch url: https://seemly-truthful-scribe.glitch.me/
-
 const Home = () => {
-  const API_URL = "http://localhost:3500/" || process.env.REACT_APP_API_URL;
+  const API_URL = "https://seemly-truthful-scribe.glitch.me/";
   const searchResults = useStoreState((state) => state.searchResults);
   const setPosts = useStoreActions((actions) => actions.setPosts);
 

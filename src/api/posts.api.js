@@ -1,6 +1,5 @@
 import axios from "axios";
-// glitch url: https://seemly-truthful-scribe.glitch.me/
-const API_URL = "http://localhost:3500/" || process.env.REACT_APP_API_URL;
+const API_URL = "https://seemly-truthful-scribe.glitch.me/";
 
 export default axios.create({
   baseURL: API_URL,

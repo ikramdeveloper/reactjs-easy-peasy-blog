@@ -31,10 +31,16 @@
       "body": "lorem ipsum dolor sit amet"
     },
     {
-      "id": 9,
-      "title": "Hello!",
-      "datetime": "April 16, 2022 3:00:38 AM",
-      "body": "Hello World!"
+      "id": 10,
+      "title": "Live on netlify",
+      "datetime": "April 16, 2022 5:09:10 AM",
+      "body": "Testing on netlify"
+    },
+    {
+      "id": 11,
+      "title": "What is a Full Stack Developer?",
+      "datetime": "April 16, 2022 5:17:05 AM",
+      "body": "Full-stack developer roles are among the most highly sought after positions in the current job market.\n\nBut what exactly is full-stack web development, and how do you become a full-stack developer?\n\nIn this article, you will first learn what the term full-stack means.\n\nThen, you will see some suggested technologies to learn accompanied by learning resources to start your full-stack web development journey."
     }
   ]
 }
