@@ -22,6 +22,12 @@ React JS blog App using [Easy Peasy Redux](https://easy-peasy.vercel.app/) & Axi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Run json-server in terminal
+
+```
+npx json-server -p 3500 -w data/db.json
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
